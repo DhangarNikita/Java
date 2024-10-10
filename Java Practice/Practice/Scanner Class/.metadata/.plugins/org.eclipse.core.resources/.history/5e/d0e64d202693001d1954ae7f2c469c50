@@ -1,0 +1,16 @@
+import java.util.Scanner;
+public class IntegerType {
+
+public static void main(String[]arrg) {
+	Scanner sc=new Scanner(System.in);
+	//int
+	
+	System.out.println("Enter a number");
+	int num=sc.nextInt();
+	System.out.println("num is:" +num);
+	
+	
+	
+	
+}
+}

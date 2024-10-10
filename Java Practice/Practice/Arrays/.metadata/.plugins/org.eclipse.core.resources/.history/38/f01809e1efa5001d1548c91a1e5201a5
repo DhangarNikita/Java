@@ -1,0 +1,7 @@
+//given array sort in non decreasing order
+
+package com.TowPointer;
+
+public class NonDecreasing {
+
+}

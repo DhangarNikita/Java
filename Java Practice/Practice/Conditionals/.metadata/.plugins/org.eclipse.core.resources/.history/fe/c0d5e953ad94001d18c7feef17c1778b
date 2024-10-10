@@ -1,0 +1,14 @@
+import java.util.Scanner;
+public class Ternary {
+	public static void main(String[]arrgs) {
+		Scanner sc = new Scanner(System.in);
+		System.out.println("Enter number");
+		
+		int num = sc.nextInt();
+		String ans;
+		
+		ans = (num%2==0 && num % 3 ==0)? "Even":"Odd";
+		System.out.println(ans);
+	}
+
+}

@@ -1,0 +1,16 @@
+/*given an integer array a return the prifix sum/running sum in the same 
+array without creating a new array*/
+
+package com.PrefixApproch;
+import java.util.Scanner;
+
+public class PrefixSum {
+	
+	static int[] prefixSum(int[]arr) {
+		for(int i=1; i<arr.length;i++) {
+			arr[i]= arr[i-1]+arr[i];
+		}
+		return arr;
+	}
+
+}

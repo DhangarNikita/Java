@@ -1,0 +1,21 @@
+package com.Methods;
+
+  class Stdudent {
+	  public void sum(int a, int b) {
+		  int ans = a+b;
+	  }
+	  
+	
+}
+
+
+
+
+public class Exp_1 {
+	public static void main(String[]arrgs) {
+		
+		
+		
+	}
+
+}

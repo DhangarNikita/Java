@@ -1,0 +1,9 @@
+/*given an integer array a return the prifix sum/running sum in the same 
+array without creating a new array*/
+
+package com.PrefixApproch;
+import java.util.Scanner;
+
+public class PrefixSum {
+
+}

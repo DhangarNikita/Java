@@ -1,0 +1,22 @@
+//one file contain multiple class
+
+package com.ClassObject;
+
+class Student {
+	int RollNo;
+	String StudentName;
+}
+
+// main class
+
+public class Example_3 {
+	public static void main(String[]arrgs) {
+		Student s1 = new Student();
+		s1.RollNo=10;
+		s1.StudentName ="Nikita";
+		System.out.println(s1.RollNo);
+		System.out.println(s1.StudentName);
+		
+	}
+
+}

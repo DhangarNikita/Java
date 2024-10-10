@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Java Practice\Practice\Sorting\.metadata\.plugins\org.eclipse.jdt.core
+3959137331.index
+1865797976.index
+2228597084.index

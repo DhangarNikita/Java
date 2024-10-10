@@ -1,0 +1,13 @@
+package com.whileloop;
+
+public class PrintNumber {
+	public static void main(String[]arrgs) {
+		int sum=0;
+		int num=1;
+		while(num<=10) {
+			System.out.println(sum);
+			num++;
+		}
+	}
+
+}

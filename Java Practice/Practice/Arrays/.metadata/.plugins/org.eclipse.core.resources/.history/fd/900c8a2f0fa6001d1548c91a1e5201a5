@@ -1,0 +1,7 @@
+/* given array of integers of size n answer q queries where you need to print 
+   the sum of values in a given range of indices from l to r */
+package com.PrefixApproch;
+import java.util.*;
+public class PrefixQuqries {
+
+}

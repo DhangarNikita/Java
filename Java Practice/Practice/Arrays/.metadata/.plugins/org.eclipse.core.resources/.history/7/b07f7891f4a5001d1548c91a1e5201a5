@@ -1,0 +1,7 @@
+// check if we can partition the array into two subarrays with equal sum 
+
+package com.PrefixApproch;
+
+public class DivAndSum {
+
+}

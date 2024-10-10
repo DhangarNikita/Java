@@ -1,0 +1,6 @@
+// check if we can partition the array into two subarrays with equal sum 
+package com.PrefixApproch;
+import java.util.Scanner;
+public class DivAndSum {
+
+}

@@ -1,0 +1,16 @@
+package Interface;
+
+interface Simple {
+	void circle();
+
+}
+
+
+class Easy implements Simple{
+	public void circle{
+		System.out.println("Shape Circle");
+	}
+	Easy es =new Easy();
+	es.circle();
+	
+}
